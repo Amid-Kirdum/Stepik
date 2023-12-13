@@ -1,6 +1,6 @@
 <h1 align="center">Stepik AQA course repository</a> 
-<h3 align="center">I am a self-learning QA engineer,<br>with a great desire to learn automation testing on Python and JS </h3>
+<h3 align="center">This repository contains my attempts to understand Python and Selenium, as well as homework and more </h3>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="200"/>
 </div>
