@@ -27,11 +27,6 @@ try:
     # Нажать на кнопку "Submit"
     button.click()
 
-
-
-
-
-
 finally:
     time.sleep(5)
     browser.quit()
