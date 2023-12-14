@@ -1,3 +1,5 @@
-.idea/
-.venv/
-*cache*
+/.idea/
+/.pytest_cache/
+/.run/
+/.venv/
+/.vscode/
